@@ -1,5 +1,5 @@
 package com.lesson.sen;
-// Changes done
+// Changes
 public class Main2 {
     public static void main(String[] args) {
         byte b;
@@ -9,7 +9,7 @@ public class Main2 {
         u = (int)u8; // hanum rada anum . ic heto inch ka;
         System.out.println(u);
 
-
+        int io = 68; //change
         int i = 5;
 
 
